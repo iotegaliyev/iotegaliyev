@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Otegaliyev Islam</h1>
-<h3 align="center">Road to Junior Python BackEnd Dev From Kazakhstan</h3>
 
 <hr>
-
-I’m currently learning <b>FastAPI, MongoDB</b>
 
 - 📫 How to reach me: **iotegaliyev@gmail.com**
 
